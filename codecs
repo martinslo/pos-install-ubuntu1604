@@ -1,0 +1,5 @@
+#!/bin/bash
+#Instalando codecs no Ubuntu 16.04 LTS
+sudo apt install ubuntu-restricted-extras -y
+sudo apt-get install libdvd-pkg -y
+sudo dpkg-reconfigure libdvd-pkg -y
