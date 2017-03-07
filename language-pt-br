@@ -1,0 +1,3 @@
+#!/bin/bash
+#Atualizando idioma português do Brasil para Ubuntu 16.04 LTS
+sudo apt-get install language-pack-gnome-pt language-pack-pt-base hunspell-pt-br mythes-pt-pt thunderbird-locale-pt-pt hyphen-pt-br hyphen-pt-pt hunspell-pt-pt -y
