@@ -1,0 +1,3 @@
+#!/bin/bash
+#Instalando Unity Tweak Tool no Ubuntu 16.04 LTS
+sudo apt install unity-tweak-tool -y
