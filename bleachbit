@@ -1,0 +1,3 @@
+#!/bin/bash
+#Instalando Bleachbit no Ubuntu 16.04 LTS
+sudo apt install bleachbit -y
