@@ -1,0 +1,5 @@
+#!/bin/bash
+#Instalando Sublime Text 2 no Ubuntu 16.04 LTS
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text -y
